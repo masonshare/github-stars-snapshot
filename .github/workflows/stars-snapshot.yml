@@ -1,0 +1,47 @@
+name: Stars snapshot
+
+on:
+  schedule:
+    - cron: "0 22 * * 6"   # 22:00 UTC Saturday = 05:00 Sunday Vietnam time (before routine)
+  workflow_dispatch:        # allow manual run
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GH_USER: masonshare
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Export starred repos (stars, forks)
+        run: |
+          mkdir -p data/history
+          gh api --paginate "users/$GH_USER/starred?per_page=100" \
+            --jq '.[] | {name: .full_name, description, stars: .stargazers_count, forks: .forks_count, pushed_at, url: .html_url}' \
+            | jq -s 'sort_by(.name | ascii_downcase)' > data/stars.json
+          cp data/stars.json "data/history/$(date -u +%F).json"
+          echo "Starred repos: $(jq length data/stars.json)"
+
+      - name: Releases in last 8 days (starred + extra_repos.txt)
+        run: |
+          touch extra_repos.txt
+          { jq -r '.[].name' data/stars.json; grep -v '^\s*#' extra_repos.txt | sed '/^\s*$/d'; } | sort -u > /tmp/repos.txt
+          since=$(date -u -d '8 days ago' +%FT%TZ)
+          while read -r r; do
+            gh api "repos/$r/releases?per_page=5" \
+              --jq "[.[] | select(.draft == false and .published_at >= \"$since\") | {repo: \"$r\", tag: .tag_name, name, prerelease, published_at, url: .html_url, body: ((.body // \"\") | .[0:2000])}]" \
+              2>/dev/null || echo '[]'
+          done < /tmp/repos.txt | jq -s 'add // [] | sort_by(.published_at) | reverse' > data/releases_7d.json
+          echo "Recent releases: $(jq length data/releases_7d.json)"
+
+      - name: Commit
+        run: |
+          git config user.name "stars-bot"
+          git config user.email "stars-bot@users.noreply.github.com"
+          git add data
+          git commit -m "snapshot $(date -u +%F)" || echo "No changes"
+          git push
