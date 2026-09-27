@@ -1,5 +1,14 @@
 [
   {
+    "body": "## What's Changed\n* patch: Fix Hermes installation on Windows by @Alishahryar1 in https://github.com/Alishahryar1/free-claude-code/pull/1922\n\n\n**Full Changelog**: https://github.com/Alishahryar1/free-claude-code/compare/v6.4.2...v6.4.3",
+    "name": "v6.4.3",
+    "prerelease": false,
+    "published_at": "2026-09-27T18:31:19Z",
+    "repo": "Alishahryar1/free-claude-code",
+    "tag": "v6.4.3",
+    "url": "https://github.com/Alishahryar1/free-claude-code/releases/tag/v6.4.3"
+  },
+  {
     "body": "### [111.44.65](https://github.com/ever-co/ever-gauzy/compare/v111.44.64...v111.44.65) (2026-09-27)\n\n\n### Bug Fixes\n\n* **security:** prove GitHub installation ownership before binding it (GHSA-4rwq) ([#10318](https://github.com/ever-co/ever-gauzy/issues/10318)) ([ab886b1](https://github.com/ever-co/ever-gauzy/commit/ab886b135f5ec59355d49e0e203214143db0f866))\n## What's Changed\n* fix(security): prove GitHub installation ownership before binding it (GHSA-4rwq) by @evereq in https://github.com/ever-co/ever-gauzy/pull/10318\n\n\n**Full Changelog**: https://github.com/ever-co/ever-gauzy/compare/v111.44.64...v111.44.65",
     "name": "v111.44.65",
     "prerelease": true,
@@ -421,15 +430,6 @@
     "repo": "kortix-ai/suna",
     "tag": "v0.13.34",
     "url": "https://github.com/kortix-ai/suna/releases/tag/v0.13.34"
-  },
-  {
-    "body": "## What's Changed\n* patch: Consolidate Code storage into fcc.db with numbered migrations by @Alishahryar1 in https://github.com/Alishahryar1/free-claude-code/pull/1913\n\n\n**Full Changelog**: https://github.com/Alishahryar1/free-claude-code/compare/v6.3.2...v6.3.3",
-    "name": "v6.3.3",
-    "prerelease": false,
-    "published_at": "2026-09-27T00:37:34Z",
-    "repo": "Alishahryar1/free-claude-code",
-    "tag": "v6.3.3",
-    "url": "https://github.com/Alishahryar1/free-claude-code/releases/tag/v6.3.3"
   },
   {
     "body": "## Security fix: Windows browser MCP tools\n\n**Who is affected:** Windows hosts running the RuFlo browser MCP tools (`browser_open`, `browser_fill`, `browser_type`, `browser_eval` and the other `browser_*` tools) where `agent-browser` is **not** installed globally, so the tools fall back to `npx`. Every published version that carries the #2770 fallback is affected, including 3.46.0. macOS and Linux were never affected.\n\n**What was wrong:** the `npx` fallback ran through the Windows command shell so `npx.cmd` could be resolved. Values supplied to the browser tools (fill text, eval scripts, selectors) were passed on that command line and could be interpreted as shell syntax.\n\n**What changed:** the launcher now resolves the npm shims to the process behind them and starts it directly with an argument array. No shell is involved, and no tool value is ever parsed as a command. If the launcher cannot be resolved without a shell, the tool reports the install hint instead of falling back to one. Details and the alternatives considered are in ADR-401.\n\n**What to do:** upgrade to 3.46.1. Installing `agent-browser` globally (`npm i -g agent-browser`) also avoids the fallback path on older versions.\n\nThe same change was audited across the other places that set `shell` on Windows (`init`, `eject`, `agentbbs`); none receives tool-supplied input.\n\n## Verification\nA regression test drives the browser tools with shell metacharacters under both a Windows and a Linux platform and asserts each value reaches the process as a single literal argument. It fails on the previous code, and a static guard fails if a `shell` option is reintroduced.\n\nFull details: #3451.\n\n\n\n**Full write-up** (review method, validation, artifact integrities, what was held and why): https://gist.github.com/ruvnet/d7c5a6f1c3616dbbc6db91fdafb1db32\n",

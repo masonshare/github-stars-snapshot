@@ -12,15 +12,15 @@
     "forks": 7742,
     "name": "3b1b/manim",
     "pushed_at": "2026-09-09T16:23:48Z",
-    "stars": 94317,
+    "stars": 94318,
     "url": "https://github.com/3b1b/manim"
   },
   {
     "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-    "forks": 11540,
+    "forks": 11542,
     "name": "666ghj/MiroFish",
     "pushed_at": "2026-09-16T03:31:58Z",
-    "stars": 74978,
+    "stars": 74982,
     "url": "https://github.com/666ghj/MiroFish"
   },
   {
@@ -49,23 +49,23 @@
   },
   {
     "description": "Production-grade engineering skills for AI coding agents.",
-    "forks": 10441,
+    "forks": 10444,
     "name": "addyosmani/agent-skills",
     "pushed_at": "2026-09-26T04:19:38Z",
-    "stars": 99433,
+    "stars": 99446,
     "url": "https://github.com/addyosmani/agent-skills"
   },
   {
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "forks": 40079,
+    "forks": 40084,
     "name": "affaan-m/ECC",
     "pushed_at": "2026-09-24T16:52:48Z",
-    "stars": 268247,
+    "stars": 268277,
     "url": "https://github.com/affaan-m/ECC"
   },
   {
     "description": "Agent skill that turns natural language, code, Terraform/K8s, SQL, OpenAPI, AsyncAPI, Protobuf and GraphQL sources into editable, tested draw.io architecture diagrams: incremental sync, multi-view projection, drift diff, CI architecture tests, whiteboard derasterize, interactive HTML/PPTX/Mermaid exports.",
-    "forks": 681,
+    "forks": 682,
     "name": "Agents365-ai/drawio-skill",
     "pushed_at": "2026-09-14T08:26:11Z",
     "stars": 9699,
@@ -84,7 +84,7 @@
     "forks": 1944,
     "name": "agentskills/agentskills",
     "pushed_at": "2026-08-09T20:36:04Z",
-    "stars": 25734,
+    "stars": 25737,
     "url": "https://github.com/agentskills/agentskills"
   },
   {
@@ -97,10 +97,10 @@
   },
   {
     "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions, including DataForSEO, Firecrawl, Ahrefs and Matomo.",
-    "forks": 2610,
+    "forks": 2611,
     "name": "AgriciDaniel/claude-seo",
     "pushed_at": "2026-09-23T22:23:47Z",
-    "stars": 17787,
+    "stars": 17792,
     "url": "https://github.com/AgriciDaniel/claude-seo"
   },
   {
@@ -108,7 +108,7 @@
     "forks": 2796,
     "name": "alchaincyf/huashu-design",
     "pushed_at": "2026-09-22T15:52:07Z",
-    "stars": 24491,
+    "stars": 24494,
     "url": "https://github.com/alchaincyf/huashu-design"
   },
   {
@@ -124,31 +124,31 @@
     "forks": 3009,
     "name": "alibaba/open-code-review",
     "pushed_at": "2026-09-24T09:59:47Z",
-    "stars": 41847,
+    "stars": 41866,
     "url": "https://github.com/alibaba/open-code-review"
   },
   {
     "description": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "forks": 313,
+    "forks": 314,
     "name": "Alisa0808/vox-director",
     "pushed_at": "2026-08-11T15:39:41Z",
-    "stars": 2057,
+    "stars": 2060,
     "url": "https://github.com/Alisa0808/vox-director"
   },
   {
     "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-    "forks": 8967,
+    "forks": 8968,
     "name": "Alishahryar1/free-claude-code",
-    "pushed_at": "2026-09-27T09:17:04Z",
-    "stars": 56040,
+    "pushed_at": "2026-09-27T18:31:09Z",
+    "stars": 56041,
     "url": "https://github.com/Alishahryar1/free-claude-code"
   },
   {
     "description": null,
-    "forks": 2586,
+    "forks": 2587,
     "name": "andrewyng/openworker",
     "pushed_at": "2026-09-24T23:17:40Z",
-    "stars": 18306,
+    "stars": 18307,
     "url": "https://github.com/andrewyng/openworker"
   },
   {
@@ -156,23 +156,23 @@
     "forks": 5340,
     "name": "Anil-matcha/Open-Generative-AI",
     "pushed_at": "2026-09-25T14:01:50Z",
-    "stars": 29292,
+    "stars": 29297,
     "url": "https://github.com/Anil-matcha/Open-Generative-AI"
   },
   {
     "description": "The open source coding agent.",
     "forks": 27831,
     "name": "anomalyco/opencode",
-    "pushed_at": "2026-09-27T14:17:27Z",
-    "stars": 210381,
+    "pushed_at": "2026-09-27T17:37:07Z",
+    "stars": 210391,
     "url": "https://github.com/anomalyco/opencode"
   },
   {
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "forks": 24808,
+    "forks": 24816,
     "name": "anthropics/claude-code",
     "pushed_at": "2026-09-26T22:04:19Z",
-    "stars": 148313,
+    "stars": 148318,
     "url": "https://github.com/anthropics/claude-code"
   },
   {
@@ -180,7 +180,7 @@
     "forks": 6373,
     "name": "anthropics/claude-cookbooks",
     "pushed_at": "2026-09-24T18:19:10Z",
-    "stars": 53009,
+    "stars": 53012,
     "url": "https://github.com/anthropics/claude-cookbooks"
   },
   {
@@ -188,7 +188,7 @@
     "forks": 4165,
     "name": "anthropics/claude-plugins-official",
     "pushed_at": "2026-09-25T23:12:23Z",
-    "stars": 37089,
+    "stars": 37091,
     "url": "https://github.com/anthropics/claude-plugins-official"
   },
   {
@@ -201,10 +201,10 @@
   },
   {
     "description": null,
-    "forks": 5460,
+    "forks": 5462,
     "name": "anthropics/financial-services",
     "pushed_at": "2026-09-21T21:10:41Z",
-    "stars": 37814,
+    "stars": 37826,
     "url": "https://github.com/anthropics/financial-services"
   },
   {
@@ -212,7 +212,7 @@
     "forks": 3039,
     "name": "anthropics/knowledge-work-plugins",
     "pushed_at": "2026-09-26T07:31:12Z",
-    "stars": 25730,
+    "stars": 25737,
     "url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
@@ -220,15 +220,15 @@
     "forks": 4245,
     "name": "anthropics/prompt-eng-interactive-tutorial",
     "pushed_at": "2026-08-28T05:31:39Z",
-    "stars": 38330,
+    "stars": 38331,
     "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial"
   },
   {
     "description": "Public repository for Agent Skills",
-    "forks": 21139,
+    "forks": 21138,
     "name": "anthropics/skills",
     "pushed_at": "2026-09-24T16:20:39Z",
-    "stars": 178646,
+    "stars": 178650,
     "url": "https://github.com/anthropics/skills"
   },
   {
@@ -236,7 +236,7 @@
     "forks": 4054,
     "name": "assafelovic/gpt-researcher",
     "pushed_at": "2026-09-26T17:46:25Z",
-    "stars": 29648,
+    "stars": 29649,
     "url": "https://github.com/assafelovic/gpt-researcher"
   },
   {
@@ -244,7 +244,7 @@
     "forks": 4137,
     "name": "ATH-MaaS/Pixelle-Video",
     "pushed_at": "2026-06-14T12:40:58Z",
-    "stars": 28452,
+    "stars": 28454,
     "url": "https://github.com/ATH-MaaS/Pixelle-Video"
   },
   {
@@ -257,10 +257,10 @@
   },
   {
     "description": "A hive mind communication platform",
-    "forks": 4603,
+    "forks": 4604,
     "name": "block/buzz",
     "pushed_at": "2026-09-26T23:11:42Z",
-    "stars": 34991,
+    "stars": 35002,
     "url": "https://github.com/block/buzz"
   },
   {
@@ -284,7 +284,7 @@
     "forks": 6029,
     "name": "bmad-code-org/BMAD-METHOD",
     "pushed_at": "2026-09-27T14:35:27Z",
-    "stars": 53543,
+    "stars": 53547,
     "url": "https://github.com/bmad-code-org/BMAD-METHOD"
   },
   {
@@ -292,7 +292,7 @@
     "forks": 5768,
     "name": "bojieli/ai-agent-book",
     "pushed_at": "2026-09-27T03:02:18Z",
-    "stars": 51316,
+    "stars": 51320,
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -300,7 +300,7 @@
     "forks": 1825,
     "name": "bradautomates/claude-video",
     "pushed_at": "2026-09-25T01:25:54Z",
-    "stars": 17729,
+    "stars": 17732,
     "url": "https://github.com/bradautomates/claude-video"
   },
   {
@@ -308,7 +308,7 @@
     "forks": 12837,
     "name": "browser-use/browser-use",
     "pushed_at": "2026-09-26T07:29:35Z",
-    "stars": 116492,
+    "stars": 116496,
     "url": "https://github.com/browser-use/browser-use"
   },
   {
@@ -321,7 +321,7 @@
   },
   {
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
-    "forks": 3967,
+    "forks": 3966,
     "name": "bytedance/UI-TARS-desktop",
     "pushed_at": "2026-09-24T06:48:56Z",
     "stars": 39130,
@@ -329,18 +329,18 @@
   },
   {
     "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-    "forks": 7833,
+    "forks": 7834,
     "name": "calesthio/OpenMontage",
     "pushed_at": "2026-09-06T05:02:34Z",
-    "stars": 61513,
+    "stars": 61526,
     "url": "https://github.com/calesthio/OpenMontage"
   },
   {
     "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
-    "forks": 3574,
+    "forks": 3575,
     "name": "can1357/oh-my-pi",
-    "pushed_at": "2026-09-27T16:12:21Z",
-    "stars": 33471,
+    "pushed_at": "2026-09-27T18:12:19Z",
+    "stars": 33475,
     "url": "https://github.com/can1357/oh-my-pi"
   },
   {
@@ -404,7 +404,7 @@
     "forks": 2742,
     "name": "cathrynlavery/diagram-design",
     "pushed_at": "2026-09-27T04:49:56Z",
-    "stars": 42563,
+    "stars": 42567,
     "url": "https://github.com/cathrynlavery/diagram-design"
   },
   {
@@ -417,10 +417,10 @@
   },
   {
     "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-    "forks": 9049,
+    "forks": 9048,
     "name": "chatwoot/chatwoot",
-    "pushed_at": "2026-09-26T09:56:10Z",
-    "stars": 37240,
+    "pushed_at": "2026-09-27T18:05:52Z",
+    "stars": 37241,
     "url": "https://github.com/chatwoot/chatwoot"
   },
   {
@@ -436,7 +436,7 @@
     "forks": 2641,
     "name": "CloakHQ/CloakBrowser",
     "pushed_at": "2026-09-24T22:03:48Z",
-    "stars": 31731,
+    "stars": 31732,
     "url": "https://github.com/CloakHQ/CloakBrowser"
   },
   {
@@ -465,10 +465,10 @@
   },
   {
     "description": "Master programming by recreating your favorite technologies from scratch.",
-    "forks": 51668,
+    "forks": 51667,
     "name": "codecrafters-io/build-your-own-x",
     "pushed_at": "2026-07-14T19:25:58Z",
-    "stars": 550077,
+    "stars": 550094,
     "url": "https://github.com/codecrafters-io/build-your-own-x"
   },
   {
@@ -476,7 +476,7 @@
     "forks": 4631,
     "name": "colbymchenry/codegraph",
     "pushed_at": "2026-09-27T16:26:35Z",
-    "stars": 72175,
+    "stars": 72178,
     "url": "https://github.com/colbymchenry/codegraph"
   },
   {
@@ -500,7 +500,7 @@
     "forks": 7799,
     "name": "coreyhaines31/marketingskills",
     "pushed_at": "2026-09-05T04:48:10Z",
-    "stars": 51668,
+    "stars": 51673,
     "url": "https://github.com/coreyhaines31/marketingskills"
   },
   {
@@ -521,18 +521,18 @@
   },
   {
     "description": "AI agent can create video content better than you. No reason why you do it manually in google flow!",
-    "forks": 465,
+    "forks": 466,
     "name": "crisng95/flowkit",
     "pushed_at": "2026-09-25T05:08:16Z",
-    "stars": 864,
+    "stars": 865,
     "url": "https://github.com/crisng95/flowkit"
   },
   {
     "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
-    "forks": 8595,
+    "forks": 8596,
     "name": "D4Vinci/Scrapling",
     "pushed_at": "2026-09-27T15:18:03Z",
-    "stars": 84030,
+    "stars": 84036,
     "url": "https://github.com/D4Vinci/Scrapling"
   },
   {
@@ -561,10 +561,10 @@
   },
   {
     "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
-    "forks": 2350,
+    "forks": 2351,
     "name": "DavidHDev/react-bits",
     "pushed_at": "2026-09-27T12:20:21Z",
-    "stars": 48163,
+    "stars": 48165,
     "url": "https://github.com/DavidHDev/react-bits"
   },
   {
@@ -577,7 +577,7 @@
   },
   {
     "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-    "forks": 5635,
+    "forks": 5636,
     "name": "decolua/9router",
     "pushed_at": "2026-09-26T10:41:06Z",
     "stars": 29891,
@@ -585,26 +585,26 @@
   },
   {
     "description": "DeepSeek Harness: Everything is a Plugin.",
-    "forks": 28543,
+    "forks": 28545,
     "name": "deepseek-ai/deepseek-harness",
     "pushed_at": "2026-09-27T15:55:19Z",
-    "stars": 237565,
+    "stars": 237590,
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   {
     "description": "Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by hundreds of contributors",
-    "forks": 10051,
+    "forks": 10056,
     "name": "diegosouzapw/OmniRoute",
     "pushed_at": "2026-09-27T05:01:55Z",
-    "stars": 70701,
+    "stars": 70719,
     "url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
     "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-    "forks": 7886,
+    "forks": 7888,
     "name": "DietrichGebert/ponytail",
     "pushed_at": "2026-09-14T14:34:56Z",
-    "stars": 146823,
+    "stars": 146841,
     "url": "https://github.com/DietrichGebert/ponytail"
   },
   {
@@ -620,7 +620,7 @@
     "forks": 4420,
     "name": "DigitalPlatDev/FreeDomain",
     "pushed_at": "2026-08-12T10:36:46Z",
-    "stars": 201382,
+    "stars": 201387,
     "url": "https://github.com/DigitalPlatDev/FreeDomain"
   },
   {
@@ -628,7 +628,7 @@
     "forks": 4938,
     "name": "docling-project/docling",
     "pushed_at": "2026-09-25T09:57:30Z",
-    "stars": 68052,
+    "stars": 68055,
     "url": "https://github.com/docling-project/docling"
   },
   {
@@ -652,23 +652,23 @@
     "forks": 58652,
     "name": "donnemartin/system-design-primer",
     "pushed_at": "2026-09-15T01:10:09Z",
-    "stars": 372124,
+    "stars": 372136,
     "url": "https://github.com/donnemartin/system-design-primer"
   },
   {
     "description": "DuckDB is an analytical in-process SQL database management system",
     "forks": 3831,
     "name": "duckdb/duckdb",
-    "pushed_at": "2026-09-25T19:09:44Z",
-    "stars": 41733,
+    "pushed_at": "2026-09-27T18:22:17Z",
+    "stars": 41732,
     "url": "https://github.com/duckdb/duckdb"
   },
   {
     "description": "A library of agent skills for CAD, CAE and CAM",
     "forks": 1699,
     "name": "earthtojake/text-to-cad",
-    "pushed_at": "2026-09-27T17:15:23Z",
-    "stars": 16421,
+    "pushed_at": "2026-09-27T18:32:38Z",
+    "stars": 16422,
     "url": "https://github.com/earthtojake/text-to-cad"
   },
   {
@@ -676,7 +676,7 @@
     "forks": 7110,
     "name": "Egonex-AI/Understand-Anything",
     "pushed_at": "2026-09-12T05:31:43Z",
-    "stars": 84326,
+    "stars": 84328,
     "url": "https://github.com/Egonex-AI/Understand-Anything"
   },
   {
@@ -700,7 +700,7 @@
     "forks": 1194,
     "name": "ever-co/ever-gauzy",
     "pushed_at": "2026-09-27T16:27:34Z",
-    "stars": 8119,
+    "stars": 8118,
     "url": "https://github.com/ever-co/ever-gauzy"
   },
   {
@@ -708,15 +708,15 @@
     "forks": 1737,
     "name": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
     "pushed_at": "2026-07-18T06:23:28Z",
-    "stars": 17250,
+    "stars": 17251,
     "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts"
   },
   {
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "forks": 15493,
     "name": "excalidraw/excalidraw",
-    "pushed_at": "2026-09-27T16:45:41Z",
-    "stars": 133079,
+    "pushed_at": "2026-09-27T17:47:31Z",
+    "stars": 133083,
     "url": "https://github.com/excalidraw/excalidraw"
   },
   {
@@ -732,7 +732,7 @@
     "forks": 22001,
     "name": "f/prompts.chat",
     "pushed_at": "2026-09-09T10:27:05Z",
-    "stars": 171405,
+    "stars": 171412,
     "url": "https://github.com/f/prompts.chat"
   },
   {
@@ -740,7 +740,7 @@
     "forks": 1159,
     "name": "facebook/astryx",
     "pushed_at": "2026-09-27T15:14:54Z",
-    "stars": 13461,
+    "stars": 13463,
     "url": "https://github.com/facebook/astryx"
   },
   {
@@ -748,22 +748,22 @@
     "forks": 4531,
     "name": "Fincept-Corporation/FinceptTerminal",
     "pushed_at": "2026-09-19T12:41:43Z",
-    "stars": 32016,
+    "stars": 32017,
     "url": "https://github.com/Fincept-Corporation/FinceptTerminal"
   },
   {
     "description": "The web data API to search, scrape, and interact at scale. 🔥",
-    "forks": 9945,
+    "forks": 9946,
     "name": "firecrawl/firecrawl",
     "pushed_at": "2026-09-27T06:25:34Z",
-    "stars": 185434,
+    "stars": 185458,
     "url": "https://github.com/firecrawl/firecrawl"
   },
   {
     "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
     "forks": 1313,
     "name": "firecrawl/pdf-inspector",
-    "pushed_at": "2026-09-27T16:25:37Z",
+    "pushed_at": "2026-09-27T17:50:41Z",
     "stars": 19381,
     "url": "https://github.com/firecrawl/pdf-inspector"
   },
@@ -777,10 +777,10 @@
   },
   {
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-    "forks": 20011,
+    "forks": 20012,
     "name": "garrytan/gstack",
     "pushed_at": "2026-09-27T12:19:57Z",
-    "stars": 134328,
+    "stars": 134333,
     "url": "https://github.com/garrytan/gstack"
   },
   {
@@ -793,10 +793,10 @@
   },
   {
     "description": "💫 Toolkit to help you get started with SDD or any other process!",
-    "forks": 12463,
+    "forks": 12465,
     "name": "github/spec-kit",
     "pushed_at": "2026-09-25T20:31:03Z",
-    "stars": 139093,
+    "stars": 139102,
     "url": "https://github.com/github/spec-kit"
   },
   {
@@ -804,7 +804,7 @@
     "forks": 1687,
     "name": "google/skills",
     "pushed_at": "2026-09-25T19:39:49Z",
-    "stars": 20424,
+    "stars": 20425,
     "url": "https://github.com/google/skills"
   },
   {
@@ -812,7 +812,7 @@
     "forks": 928,
     "name": "greensock/gsap-skills",
     "pushed_at": "2026-07-29T17:36:08Z",
-    "stars": 15719,
+    "stars": 15720,
     "url": "https://github.com/greensock/gsap-skills"
   },
   {
@@ -820,39 +820,39 @@
     "forks": 5714,
     "name": "headroomlabs-ai/headroom",
     "pushed_at": "2026-09-27T04:54:14Z",
-    "stars": 73944,
+    "stars": 73945,
     "url": "https://github.com/headroomlabs-ai/headroom"
   },
   {
     "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins",
     "forks": 4769,
     "name": "hesreallyhim/awesome-claude-code",
-    "pushed_at": "2026-09-27T15:08:48Z",
-    "stars": 54685,
+    "pushed_at": "2026-09-27T18:11:41Z",
+    "stars": 54692,
     "url": "https://github.com/hesreallyhim/awesome-claude-code"
   },
   {
     "description": "Write HTML. Render video. Built for agents.",
-    "forks": 4884,
+    "forks": 4887,
     "name": "heygen-com/hyperframes",
-    "pushed_at": "2026-09-27T16:35:47Z",
-    "stars": 53567,
+    "pushed_at": "2026-09-27T18:34:02Z",
+    "stars": 53591,
     "url": "https://github.com/heygen-com/hyperframes"
   },
   {
     "description": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\"  ",
-    "forks": 3429,
+    "forks": 3431,
     "name": "HKUDS/AI-Trader",
     "pushed_at": "2026-06-11T09:26:03Z",
-    "stars": 22581,
+    "stars": 22584,
     "url": "https://github.com/HKUDS/AI-Trader"
   },
   {
     "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
-    "forks": 5554,
+    "forks": 5555,
     "name": "HKUDS/Vibe-Trading",
     "pushed_at": "2026-09-27T03:00:46Z",
-    "stars": 34123,
+    "stars": 34125,
     "url": "https://github.com/HKUDS/Vibe-Trading"
   },
   {
@@ -868,7 +868,7 @@
     "forks": 3564,
     "name": "Hmbown/Codewhale",
     "pushed_at": "2026-09-27T14:28:32Z",
-    "stars": 41031,
+    "stars": 41030,
     "url": "https://github.com/Hmbown/Codewhale"
   },
   {
@@ -892,7 +892,7 @@
     "forks": 4488,
     "name": "hugohe3/ppt-master",
     "pushed_at": "2026-09-27T05:20:02Z",
-    "stars": 56638,
+    "stars": 56642,
     "url": "https://github.com/hugohe3/ppt-master"
   },
   {
@@ -900,12 +900,12 @@
     "forks": 3841,
     "name": "Imbad0202/academic-research-skills",
     "pushed_at": "2026-09-25T12:09:56Z",
-    "stars": 49633,
+    "stars": 49637,
     "url": "https://github.com/Imbad0202/academic-research-skills"
   },
   {
     "description": "The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.",
-    "forks": 1197,
+    "forks": 1198,
     "name": "InsForge/InsForge",
     "pushed_at": "2026-09-26T19:45:20Z",
     "stars": 13023,
@@ -916,7 +916,7 @@
     "forks": 3445,
     "name": "iOfficeAI/AionUi",
     "pushed_at": "2026-09-09T07:57:01Z",
-    "stars": 33165,
+    "stars": 33166,
     "url": "https://github.com/iOfficeAI/AionUi"
   },
   {
@@ -929,10 +929,10 @@
   },
   {
     "description": "Clone any website with one command using AI coding agents",
-    "forks": 5167,
+    "forks": 5166,
     "name": "JCodesMore/ai-website-cloner-template",
     "pushed_at": "2026-09-27T04:51:46Z",
-    "stars": 35352,
+    "stars": 35355,
     "url": "https://github.com/JCodesMore/ai-website-cloner-template"
   },
   {
@@ -940,7 +940,7 @@
     "forks": 2888,
     "name": "JimLiu/baoyu-skills",
     "pushed_at": "2026-09-10T15:13:43Z",
-    "stars": 26185,
+    "stars": 26186,
     "url": "https://github.com/JimLiu/baoyu-skills"
   },
   {
@@ -948,15 +948,15 @@
     "forks": 357,
     "name": "jordan-gibbs/hyperresearch",
     "pushed_at": "2026-09-25T18:24:03Z",
-    "stars": 3660,
+    "stars": 3661,
     "url": "https://github.com/jordan-gibbs/hyperresearch"
   },
   {
     "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-    "forks": 6266,
+    "forks": 6267,
     "name": "JuliusBrussee/caveman",
     "pushed_at": "2026-09-27T07:27:27Z",
-    "stars": 108046,
+    "stars": 108049,
     "url": "https://github.com/JuliusBrussee/caveman"
   },
   {
@@ -964,7 +964,7 @@
     "forks": 13527,
     "name": "karpathy/autoresearch",
     "pushed_at": "2026-03-26T00:07:37Z",
-    "stars": 96874,
+    "stars": 96878,
     "url": "https://github.com/karpathy/autoresearch"
   },
   {
@@ -980,7 +980,7 @@
     "forks": 5544,
     "name": "KeygraphHQ/shannon",
     "pushed_at": "2026-09-21T12:58:11Z",
-    "stars": 48420,
+    "stars": 48419,
     "url": "https://github.com/KeygraphHQ/shannon"
   },
   {
@@ -988,39 +988,39 @@
     "forks": 2498,
     "name": "khoj-ai/khoj",
     "pushed_at": "2026-08-02T01:55:40Z",
-    "stars": 37524,
+    "stars": 37525,
     "url": "https://github.com/khoj-ai/khoj"
   },
   {
     "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-    "forks": 3204,
+    "forks": 3205,
     "name": "Kilo-Org/kilocode",
-    "pushed_at": "2026-09-26T14:07:00Z",
+    "pushed_at": "2026-09-27T17:36:30Z",
     "stars": 27426,
     "url": "https://github.com/Kilo-Org/kilocode"
   },
   {
     "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-    "forks": 13332,
+    "forks": 13333,
     "name": "koala73/worldmonitor",
     "pushed_at": "2026-09-27T14:55:52Z",
-    "stars": 87466,
+    "stars": 87470,
     "url": "https://github.com/koala73/worldmonitor"
   },
   {
     "description": "The open-source AI Management System",
     "forks": 3436,
     "name": "kortix-ai/suna",
-    "pushed_at": "2026-09-27T17:21:01Z",
+    "pushed_at": "2026-09-27T18:31:56Z",
     "stars": 20236,
     "url": "https://github.com/kortix-ai/suna"
   },
   {
     "description": "Talk to one agent. Ship with a crew.",
-    "forks": 2285,
+    "forks": 2286,
     "name": "kunchenguid/firstmate",
-    "pushed_at": "2026-09-27T14:52:48Z",
-    "stars": 7236,
+    "pushed_at": "2026-09-27T18:20:49Z",
+    "stars": 7237,
     "url": "https://github.com/kunchenguid/firstmate"
   },
   {
@@ -1028,7 +1028,7 @@
     "forks": 828,
     "name": "kyrolabs/awesome-agents",
     "pushed_at": "2026-09-26T11:11:06Z",
-    "stars": 2842,
+    "stars": 2843,
     "url": "https://github.com/kyrolabs/awesome-agents"
   },
   {
@@ -1044,23 +1044,23 @@
     "forks": 24797,
     "name": "langgenius/dify",
     "pushed_at": "2026-09-27T17:19:54Z",
-    "stars": 157330,
+    "stars": 157332,
     "url": "https://github.com/langgenius/dify"
   },
   {
     "description": " ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.",
     "forks": 832,
     "name": "LearningCircuit/local-deep-research",
-    "pushed_at": "2026-09-27T16:47:06Z",
-    "stars": 9137,
+    "pushed_at": "2026-09-27T18:29:06Z",
+    "stars": 9138,
     "url": "https://github.com/LearningCircuit/local-deep-research"
   },
   {
     "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-    "forks": 6167,
+    "forks": 6168,
     "name": "Leonxlnx/taste-skill",
     "pushed_at": "2026-09-26T09:01:50Z",
-    "stars": 90584,
+    "stars": 90596,
     "url": "https://github.com/Leonxlnx/taste-skill"
   },
   {
@@ -1068,7 +1068,7 @@
     "forks": 4583,
     "name": "lfnovo/open-notebook",
     "pushed_at": "2026-09-20T21:49:41Z",
-    "stars": 39554,
+    "stars": 39557,
     "url": "https://github.com/lfnovo/open-notebook"
   },
   {
@@ -1084,31 +1084,31 @@
     "forks": 1690,
     "name": "lightpanda-io/browser",
     "pushed_at": "2026-09-27T11:58:55Z",
-    "stars": 35605,
+    "stars": 35606,
     "url": "https://github.com/lightpanda-io/browser"
   },
   {
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
-    "forks": 4165,
+    "forks": 4166,
     "name": "linshenkx/prompt-optimizer",
     "pushed_at": "2026-09-24T08:49:47Z",
-    "stars": 35890,
+    "stars": 35893,
     "url": "https://github.com/linshenkx/prompt-optimizer"
   },
   {
     "description": "🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.",
-    "forks": 15925,
+    "forks": 15924,
     "name": "lobehub/lobehub",
-    "pushed_at": "2026-09-27T17:22:30Z",
-    "stars": 82853,
+    "pushed_at": "2026-09-27T18:05:35Z",
+    "stars": 82854,
     "url": "https://github.com/lobehub/lobehub"
   },
   {
     "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-    "forks": 15185,
+    "forks": 15188,
     "name": "MadsLorentzen/ai-job-search",
-    "pushed_at": "2026-09-21T06:41:22Z",
-    "stars": 44108,
+    "pushed_at": "2026-09-27T17:28:16Z",
+    "stars": 44113,
     "url": "https://github.com/MadsLorentzen/ai-job-search"
   },
   {
@@ -1116,7 +1116,7 @@
     "forks": 1139,
     "name": "magicuidesign/magicui",
     "pushed_at": "2026-09-20T02:38:38Z",
-    "stars": 22404,
+    "stars": 22405,
     "url": "https://github.com/magicuidesign/magicui"
   },
   {
@@ -1140,15 +1140,15 @@
     "forks": 878,
     "name": "mattpocock/sandcastle",
     "pushed_at": "2026-06-29T20:16:27Z",
-    "stars": 8161,
+    "stars": 8162,
     "url": "https://github.com/mattpocock/sandcastle"
   },
   {
     "description": "Skills for Real Engineers. Straight from my .agents directory.",
-    "forks": 22784,
+    "forks": 22788,
     "name": "mattpocock/skills",
     "pushed_at": "2026-09-24T14:07:55Z",
-    "stars": 270592,
+    "stars": 270614,
     "url": "https://github.com/mattpocock/skills"
   },
   {
@@ -1164,20 +1164,20 @@
     "forks": 9305,
     "name": "mermaid-js/mermaid",
     "pushed_at": "2026-09-21T11:24:48Z",
-    "stars": 90446,
+    "stars": 90447,
     "url": "https://github.com/mermaid-js/mermaid"
   },
   {
     "description": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go.",
     "forks": 59,
     "name": "microsoft/agent-framework-go",
-    "pushed_at": "2026-09-25T16:03:27Z",
+    "pushed_at": "2026-09-27T18:04:05Z",
     "stars": 633,
     "url": "https://github.com/microsoft/agent-framework-go"
   },
   {
     "description": "12 Weeks, 24 Lessons, AI for All!",
-    "forks": 13374,
+    "forks": 13376,
     "name": "microsoft/AI-For-Beginners",
     "pushed_at": "2026-09-16T20:17:56Z",
     "stars": 69152,
@@ -1188,12 +1188,12 @@
     "forks": 13835,
     "name": "microsoft/markitdown",
     "pushed_at": "2026-09-21T21:03:34Z",
-    "stars": 187287,
+    "stars": 187293,
     "url": "https://github.com/microsoft/markitdown"
   },
   {
     "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
-    "forks": 6507,
+    "forks": 6509,
     "name": "microsoft/playwright",
     "pushed_at": "2026-09-27T01:43:09Z",
     "stars": 96753,
@@ -1204,7 +1204,7 @@
     "forks": 754,
     "name": "microsoft/playwright-cli",
     "pushed_at": "2026-09-18T23:34:47Z",
-    "stars": 13619,
+    "stars": 13621,
     "url": "https://github.com/microsoft/playwright-cli"
   },
   {
@@ -1225,10 +1225,10 @@
   },
   {
     "description": "Playwright MCP server",
-    "forks": 3197,
+    "forks": 3198,
     "name": "microsoft/playwright-mcp",
     "pushed_at": "2026-09-25T22:43:50Z",
-    "stars": 37620,
+    "stars": 37623,
     "url": "https://github.com/microsoft/playwright-mcp"
   },
   {
@@ -1236,7 +1236,7 @@
     "forks": 1236,
     "name": "microsoft/playwright-python",
     "pushed_at": "2026-09-24T17:53:11Z",
-    "stars": 15016,
+    "stars": 15017,
     "url": "https://github.com/microsoft/playwright-python"
   },
   {
@@ -1252,7 +1252,7 @@
     "forks": 1647,
     "name": "microsoft/SkillOpt",
     "pushed_at": "2026-09-05T17:33:48Z",
-    "stars": 17648,
+    "stars": 17654,
     "url": "https://github.com/microsoft/SkillOpt"
   },
   {
@@ -1268,7 +1268,7 @@
     "forks": 65,
     "name": "mikiarlo3/ai-copywriter",
     "pushed_at": "2026-08-01T16:30:08Z",
-    "stars": 1167,
+    "stars": 1168,
     "url": "https://github.com/mikiarlo3/ai-copywriter"
   },
   {
@@ -1292,7 +1292,7 @@
     "forks": 7410,
     "name": "Mintplex-Labs/anything-llm",
     "pushed_at": "2026-09-26T01:04:54Z",
-    "stars": 66529,
+    "stars": 66530,
     "url": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -1308,7 +1308,7 @@
     "forks": 24976,
     "name": "msitarzewski/agency-agents",
     "pushed_at": "2026-09-22T02:38:53Z",
-    "stars": 154876,
+    "stars": 154885,
     "url": "https://github.com/msitarzewski/agency-agents"
   },
   {
@@ -1316,28 +1316,28 @@
     "forks": 4063,
     "name": "mukul975/Anthropic-Cybersecurity-Skills",
     "pushed_at": "2026-08-31T04:32:44Z",
-    "stars": 33453,
+    "stars": 33456,
     "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills"
   },
   {
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-    "forks": 21755,
+    "forks": 21757,
     "name": "multica-ai/andrej-karpathy-skills",
     "pushed_at": "2026-04-20T10:05:04Z",
-    "stars": 215513,
+    "stars": 215515,
     "url": "https://github.com/multica-ai/andrej-karpathy-skills"
   },
   {
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "forks": 60904,
     "name": "n8n-io/n8n",
-    "pushed_at": "2026-09-27T16:05:59Z",
-    "stars": 206114,
+    "pushed_at": "2026-09-27T18:33:50Z",
+    "stars": 206119,
     "url": "https://github.com/n8n-io/n8n"
   },
   {
     "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
-    "forks": 12690,
+    "forks": 12689,
     "name": "NanmiCoder/MediaCrawler",
     "pushed_at": "2026-09-19T05:26:11Z",
     "stars": 65822,
@@ -1348,7 +1348,7 @@
     "forks": 2265,
     "name": "nashsu/llm_wiki",
     "pushed_at": "2026-09-27T09:31:44Z",
-    "stars": 20009,
+    "stars": 20010,
     "url": "https://github.com/nashsu/llm_wiki"
   },
   {
@@ -1380,15 +1380,15 @@
     "forks": 13927,
     "name": "nextlevelbuilder/ui-ux-pro-max-skill",
     "pushed_at": "2026-09-27T11:30:41Z",
-    "stars": 130997,
+    "stars": 131004,
     "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
   },
   {
     "description": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
-    "forks": 11399,
+    "forks": 11401,
     "name": "nexu-io/open-design",
-    "pushed_at": "2026-09-27T01:31:35Z",
-    "stars": 98301,
+    "pushed_at": "2026-09-27T18:18:52Z",
+    "stars": 98310,
     "url": "https://github.com/nexu-io/open-design"
   },
   {
@@ -1396,23 +1396,23 @@
     "forks": 1582,
     "name": "nidhinjs/prompt-master",
     "pushed_at": "2026-08-24T07:30:40Z",
-    "stars": 13711,
+    "stars": 13713,
     "url": "https://github.com/nidhinjs/prompt-master"
   },
   {
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
-    "forks": 44994,
+    "forks": 44995,
     "name": "nilbuild/developer-roadmap",
     "pushed_at": "2026-09-25T13:44:30Z",
-    "stars": 368314,
+    "stars": 368321,
     "url": "https://github.com/nilbuild/developer-roadmap"
   },
   {
     "description": "The agent that grows with you",
-    "forks": 53015,
+    "forks": 53025,
     "name": "NousResearch/hermes-agent",
-    "pushed_at": "2026-09-27T15:19:08Z",
-    "stars": 249425,
+    "pushed_at": "2026-09-27T18:33:51Z",
+    "stars": 249438,
     "url": "https://github.com/NousResearch/hermes-agent"
   },
   {
@@ -1420,23 +1420,23 @@
     "forks": 1501,
     "name": "Nutlope/hallmark",
     "pushed_at": "2026-08-06T16:19:18Z",
-    "stars": 29207,
+    "stars": 29208,
     "url": "https://github.com/Nutlope/hallmark"
   },
   {
     "description": "Self-hosted deployment platform",
-    "forks": 1155,
+    "forks": 1157,
     "name": "oblien/openship",
     "pushed_at": "2026-09-27T15:37:06Z",
-    "stars": 12569,
+    "stars": 12623,
     "url": "https://github.com/oblien/openship"
   },
   {
     "description": "An agentic skills framework & software development methodology that works.",
-    "forks": 26143,
+    "forks": 26144,
     "name": "obra/superpowers",
     "pushed_at": "2026-09-27T02:37:47Z",
-    "stars": 292136,
+    "stars": 292152,
     "url": "https://github.com/obra/superpowers"
   },
   {
@@ -1444,7 +1444,7 @@
     "forks": 4506,
     "name": "onyx-dot-app/onyx",
     "pushed_at": "2026-09-27T10:14:19Z",
-    "stars": 32260,
+    "stars": 32261,
     "url": "https://github.com/onyx-dot-app/onyx"
   },
   {
@@ -1452,7 +1452,7 @@
     "forks": 22437,
     "name": "open-webui/open-webui",
     "pushed_at": "2026-09-26T03:28:13Z",
-    "stars": 153349,
+    "stars": 153354,
     "url": "https://github.com/open-webui/open-webui"
   },
   {
@@ -1460,15 +1460,15 @@
     "forks": 2337,
     "name": "openai/codex-plugin-cc",
     "pushed_at": "2026-07-08T00:17:31Z",
-    "stars": 33628,
+    "stars": 33629,
     "url": "https://github.com/openai/codex-plugin-cc"
   },
   {
     "description": "Skills Catalog for Codex",
-    "forks": 1875,
+    "forks": 1877,
     "name": "openai/skills",
     "pushed_at": "2026-09-08T20:35:26Z",
-    "stars": 27692,
+    "stars": 27694,
     "url": "https://github.com/openai/skills"
   },
   {
@@ -1489,7 +1489,7 @@
   },
   {
     "description": "Skill + Plugin Registry for OpenClaw",
-    "forks": 1485,
+    "forks": 1484,
     "name": "openclaw/clawhub",
     "pushed_at": "2026-09-27T15:25:06Z",
     "stars": 9461,
@@ -1497,10 +1497,10 @@
   },
   {
     "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-    "forks": 82162,
+    "forks": 82160,
     "name": "openclaw/openclaw",
-    "pushed_at": "2026-09-27T17:22:26Z",
-    "stars": 390648,
+    "pushed_at": "2026-09-27T18:33:54Z",
+    "stars": 390651,
     "url": "https://github.com/openclaw/openclaw"
   },
   {
@@ -1508,15 +1508,15 @@
     "forks": 8980,
     "name": "OpenCut-app/OpenCut",
     "pushed_at": "2026-09-24T09:24:44Z",
-    "stars": 90774,
+    "stars": 90779,
     "url": "https://github.com/OpenCut-app/OpenCut"
   },
   {
     "description": "🙌 OpenHands: AI-Driven Development",
-    "forks": 11769,
+    "forks": 11770,
     "name": "OpenHands/OpenHands",
     "pushed_at": "2026-09-27T12:27:36Z",
-    "stars": 89297,
+    "stars": 89296,
     "url": "https://github.com/OpenHands/OpenHands"
   },
   {
@@ -1532,7 +1532,7 @@
     "forks": 1069,
     "name": "oso95/scroll-world",
     "pushed_at": "2026-07-29T04:44:56Z",
-    "stars": 9534,
+    "stars": 9536,
     "url": "https://github.com/oso95/scroll-world"
   },
   {
@@ -1556,15 +1556,15 @@
     "forks": 7537,
     "name": "Panniantong/Agent-Reach",
     "pushed_at": "2026-09-15T16:16:24Z",
-    "stars": 85738,
+    "stars": 85750,
     "url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
     "description": "The open-source app everyone uses to manage agents at work",
-    "forks": 15600,
+    "forks": 15608,
     "name": "paperclipai/paperclip",
     "pushed_at": "2026-09-27T12:25:56Z",
-    "stars": 89118,
+    "stars": 89269,
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -1580,15 +1580,15 @@
     "forks": 4224,
     "name": "payloadcms/payload",
     "pushed_at": "2026-09-26T17:36:14Z",
-    "stars": 44985,
+    "stars": 44986,
     "url": "https://github.com/payloadcms/payload"
   },
   {
     "description": "The design language that makes your AI harness better at design.",
     "forks": 4339,
     "name": "pbakaus/impeccable",
-    "pushed_at": "2026-09-26T02:37:08Z",
-    "stars": 71757,
+    "pushed_at": "2026-09-27T18:07:21Z",
+    "stars": 71774,
     "url": "https://github.com/pbakaus/impeccable"
   },
   {
@@ -1596,7 +1596,7 @@
     "forks": 2405,
     "name": "PrefectHQ/fastmcp",
     "pushed_at": "2026-09-27T13:10:26Z",
-    "stars": 27909,
+    "stars": 27910,
     "url": "https://github.com/PrefectHQ/fastmcp"
   },
   {
@@ -1612,15 +1612,15 @@
     "forks": 195,
     "name": "RedPlanetHQ/core",
     "pushed_at": "2026-09-07T10:52:17Z",
-    "stars": 1984,
+    "stars": 1985,
     "url": "https://github.com/RedPlanetHQ/core"
   },
   {
     "description": "Learn it. Build it. Ship it for others.",
-    "forks": 10209,
+    "forks": 10211,
     "name": "rohitg00/ai-engineering-from-scratch",
     "pushed_at": "2026-09-27T11:54:19Z",
-    "stars": 59007,
+    "stars": 59051,
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
@@ -1635,8 +1635,8 @@
     "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
     "forks": 8711,
     "name": "ruvnet/ruflo",
-    "pushed_at": "2026-09-27T15:13:12Z",
-    "stars": 73384,
+    "pushed_at": "2026-09-27T17:41:16Z",
+    "stars": 73388,
     "url": "https://github.com/ruvnet/ruflo"
   },
   {
@@ -1644,7 +1644,7 @@
     "forks": 12575,
     "name": "ruvnet/RuView",
     "pushed_at": "2026-09-27T15:36:01Z",
-    "stars": 95185,
+    "stars": 95190,
     "url": "https://github.com/ruvnet/RuView"
   },
   {
@@ -1673,25 +1673,25 @@
   },
   {
     "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-    "forks": 20566,
+    "forks": 20567,
     "name": "Shubhamsaboo/awesome-llm-apps",
     "pushed_at": "2026-09-26T08:27:01Z",
-    "stars": 139967,
+    "stars": 139974,
     "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
   },
   {
     "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,400+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
-    "forks": 6843,
+    "forks": 6842,
     "name": "sickn33/agentic-awesome-skills",
-    "pushed_at": "2026-09-27T12:01:49Z",
-    "stars": 46989,
+    "pushed_at": "2026-09-27T18:20:41Z",
+    "stars": 46990,
     "url": "https://github.com/sickn33/agentic-awesome-skills"
   },
   {
     "description": "An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作",
     "forks": 3029,
     "name": "siyuan-note/siyuan",
-    "pushed_at": "2026-09-27T17:15:34Z",
+    "pushed_at": "2026-09-27T18:32:38Z",
     "stars": 46533,
     "url": "https://github.com/siyuan-note/siyuan"
   },
@@ -1708,15 +1708,15 @@
     "forks": 2987,
     "name": "soxoj/maigret",
     "pushed_at": "2026-09-27T06:52:30Z",
-    "stars": 38013,
+    "stars": 38014,
     "url": "https://github.com/soxoj/maigret"
   },
   {
     "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-    "forks": 5197,
+    "forks": 5198,
     "name": "stablyai/orca",
-    "pushed_at": "2026-09-27T17:21:44Z",
-    "stars": 79399,
+    "pushed_at": "2026-09-27T18:33:36Z",
+    "stars": 79432,
     "url": "https://github.com/stablyai/orca"
   },
   {
@@ -1737,26 +1737,26 @@
   },
   {
     "description": "The open-source AI workbench for scientific research",
-    "forks": 492,
+    "forks": 494,
     "name": "synthetic-sciences/openscience",
     "pushed_at": "2026-09-27T14:26:30Z",
-    "stars": 3661,
+    "stars": 3672,
     "url": "https://github.com/synthetic-sciences/openscience"
   },
   {
     "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-    "forks": 20882,
+    "forks": 20883,
     "name": "TauricResearch/TradingAgents",
     "pushed_at": "2026-09-25T06:36:11Z",
-    "stars": 108879,
+    "stars": 108886,
     "url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
     "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-    "forks": 2632,
+    "forks": 2633,
     "name": "TencentCloud/TencentDB-Agent-Memory",
     "pushed_at": "2026-09-25T17:56:35Z",
-    "stars": 27312,
+    "stars": 27316,
     "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory"
   },
   {
@@ -1764,7 +1764,7 @@
     "forks": 8384,
     "name": "thedotmack/claude-mem",
     "pushed_at": "2026-09-26T18:37:33Z",
-    "stars": 94783,
+    "stars": 94786,
     "url": "https://github.com/thedotmack/claude-mem"
   },
   {
@@ -1788,7 +1788,7 @@
     "forks": 3961,
     "name": "tinyhumansai/openhuman",
     "pushed_at": "2026-09-27T15:55:59Z",
-    "stars": 40138,
+    "stars": 40140,
     "url": "https://github.com/tinyhumansai/openhuman"
   },
   {
@@ -1801,10 +1801,10 @@
   },
   {
     "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "forks": 4907,
+    "forks": 4908,
     "name": "tt-a1i/archify",
     "pushed_at": "2026-09-27T16:14:12Z",
-    "stars": 72653,
+    "stars": 72681,
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -1819,8 +1819,8 @@
     "description": "🎯 All you need. Nothing you don't. Open source project management that works for you, not against you.",
     "forks": 824,
     "name": "usekaneo/kaneo",
-    "pushed_at": "2026-09-27T17:07:01Z",
-    "stars": 9241,
+    "pushed_at": "2026-09-27T18:34:06Z",
+    "stars": 9243,
     "url": "https://github.com/usekaneo/kaneo"
   },
   {
@@ -1828,31 +1828,31 @@
     "forks": 3160,
     "name": "VectifyAI/PageIndex",
     "pushed_at": "2026-09-24T11:42:46Z",
-    "stars": 35873,
+    "stars": 35875,
     "url": "https://github.com/VectifyAI/PageIndex"
   },
   {
     "description": "An AI Hedge Fund Team",
-    "forks": 11187,
+    "forks": 11186,
     "name": "virattt/ai-hedge-fund",
     "pushed_at": "2026-09-26T14:10:46Z",
-    "stars": 63769,
+    "stars": 63770,
     "url": "https://github.com/virattt/ai-hedge-fund"
   },
   {
     "description": "An autonomous agent for deep financial research",
-    "forks": 3413,
+    "forks": 3412,
     "name": "virattt/dexter",
     "pushed_at": "2026-09-23T19:56:36Z",
-    "stars": 27629,
+    "stars": 27630,
     "url": "https://github.com/virattt/dexter"
   },
   {
     "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-    "forks": 3411,
+    "forks": 3413,
     "name": "virgiliojr94/book-to-skill",
     "pushed_at": "2026-09-22T17:45:44Z",
-    "stars": 32708,
+    "stars": 32711,
     "url": "https://github.com/virgiliojr94/book-to-skill"
   },
   {
@@ -1860,7 +1860,7 @@
     "forks": 3728,
     "name": "VoltAgent/awesome-agent-skills",
     "pushed_at": "2026-09-23T07:18:28Z",
-    "stars": 34926,
+    "stars": 34931,
     "url": "https://github.com/VoltAgent/awesome-agent-skills"
   },
   {
@@ -1868,23 +1868,23 @@
     "forks": 2928,
     "name": "VoltAgent/awesome-claude-code-subagents",
     "pushed_at": "2026-09-21T08:24:27Z",
-    "stars": 25355,
+    "stars": 25357,
     "url": "https://github.com/VoltAgent/awesome-claude-code-subagents"
   },
   {
     "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
-    "forks": 13233,
+    "forks": 13234,
     "name": "VoltAgent/awesome-design-md",
     "pushed_at": "2026-09-21T08:23:38Z",
-    "stars": 118304,
+    "stars": 118315,
     "url": "https://github.com/VoltAgent/awesome-design-md"
   },
   {
     "description": "The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞",
-    "forks": 5053,
+    "forks": 5054,
     "name": "VoltAgent/awesome-openclaw-skills",
     "pushed_at": "2026-09-22T07:03:24Z",
-    "stars": 52827,
+    "stars": 52829,
     "url": "https://github.com/VoltAgent/awesome-openclaw-skills"
   },
   {
@@ -1921,10 +1921,10 @@
   },
   {
     "description": "Harness engineering beginner tutorial, from 0 to 1",
-    "forks": 1680,
+    "forks": 1684,
     "name": "walkinglabs/learn-harness-engineering",
     "pushed_at": "2026-08-26T01:08:59Z",
-    "stars": 16392,
+    "stars": 16411,
     "url": "https://github.com/walkinglabs/learn-harness-engineering"
   },
   {
@@ -1937,10 +1937,10 @@
   },
   {
     "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
-    "forks": 5105,
+    "forks": 5106,
     "name": "xai-org/grok-build",
     "pushed_at": "2026-09-23T16:52:48Z",
-    "stars": 27123,
+    "stars": 27125,
     "url": "https://github.com/xai-org/grok-build"
   },
   {
@@ -1956,7 +1956,7 @@
     "forks": 4318,
     "name": "yikart/AiToEarn",
     "pushed_at": "2026-09-18T07:18:26Z",
-    "stars": 26474,
+    "stars": 26477,
     "url": "https://github.com/yikart/AiToEarn"
   },
   {
