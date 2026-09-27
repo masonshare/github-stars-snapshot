@@ -20,7 +20,7 @@
     "forks": 11542,
     "name": "666ghj/MiroFish",
     "pushed_at": "2026-09-16T03:31:58Z",
-    "stars": 74982,
+    "stars": 74983,
     "url": "https://github.com/666ghj/MiroFish"
   },
   {
@@ -57,10 +57,10 @@
   },
   {
     "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-    "forks": 40084,
+    "forks": 40085,
     "name": "affaan-m/ECC",
     "pushed_at": "2026-09-24T16:52:48Z",
-    "stars": 268277,
+    "stars": 268278,
     "url": "https://github.com/affaan-m/ECC"
   },
   {
@@ -161,7 +161,7 @@
   },
   {
     "description": "The open source coding agent.",
-    "forks": 27831,
+    "forks": 27832,
     "name": "anomalyco/opencode",
     "pushed_at": "2026-09-27T17:37:07Z",
     "stars": 210391,
@@ -169,10 +169,10 @@
   },
   {
     "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-    "forks": 24816,
+    "forks": 24817,
     "name": "anthropics/claude-code",
     "pushed_at": "2026-09-26T22:04:19Z",
-    "stars": 148318,
+    "stars": 148319,
     "url": "https://github.com/anthropics/claude-code"
   },
   {
@@ -212,7 +212,7 @@
     "forks": 3039,
     "name": "anthropics/knowledge-work-plugins",
     "pushed_at": "2026-09-26T07:31:12Z",
-    "stars": 25737,
+    "stars": 25738,
     "url": "https://github.com/anthropics/knowledge-work-plugins"
   },
   {
@@ -252,7 +252,7 @@
     "forks": 11854,
     "name": "awesomedata/awesome-public-datasets",
     "pushed_at": "2026-09-23T17:54:03Z",
-    "stars": 79180,
+    "stars": 79181,
     "url": "https://github.com/awesomedata/awesome-public-datasets"
   },
   {
@@ -292,7 +292,7 @@
     "forks": 5768,
     "name": "bojieli/ai-agent-book",
     "pushed_at": "2026-09-27T03:02:18Z",
-    "stars": 51320,
+    "stars": 51321,
     "url": "https://github.com/bojieli/ai-agent-book"
   },
   {
@@ -340,7 +340,7 @@
     "forks": 3575,
     "name": "can1357/oh-my-pi",
     "pushed_at": "2026-09-27T18:12:19Z",
-    "stars": 33475,
+    "stars": 33476,
     "url": "https://github.com/can1357/oh-my-pi"
   },
   {
@@ -508,7 +508,7 @@
     "forks": 8586,
     "name": "crewAIInc/crewAI",
     "pushed_at": "2026-09-27T08:27:46Z",
-    "stars": 59093,
+    "stars": 59094,
     "url": "https://github.com/crewAIInc/crewAI"
   },
   {
@@ -588,7 +588,7 @@
     "forks": 28545,
     "name": "deepseek-ai/deepseek-harness",
     "pushed_at": "2026-09-27T15:55:19Z",
-    "stars": 237590,
+    "stars": 237591,
     "url": "https://github.com/deepseek-ai/deepseek-harness"
   },
   {
@@ -596,7 +596,7 @@
     "forks": 10056,
     "name": "diegosouzapw/OmniRoute",
     "pushed_at": "2026-09-27T05:01:55Z",
-    "stars": 70719,
+    "stars": 70720,
     "url": "https://github.com/diegosouzapw/OmniRoute"
   },
   {
@@ -659,7 +659,7 @@
     "description": "DuckDB is an analytical in-process SQL database management system",
     "forks": 3831,
     "name": "duckdb/duckdb",
-    "pushed_at": "2026-09-27T18:22:17Z",
+    "pushed_at": "2026-09-27T18:34:19Z",
     "stars": 41732,
     "url": "https://github.com/duckdb/duckdb"
   },
@@ -716,7 +716,7 @@
     "forks": 15493,
     "name": "excalidraw/excalidraw",
     "pushed_at": "2026-09-27T17:47:31Z",
-    "stars": 133083,
+    "stars": 133084,
     "url": "https://github.com/excalidraw/excalidraw"
   },
   {
@@ -756,7 +756,7 @@
     "forks": 9946,
     "name": "firecrawl/firecrawl",
     "pushed_at": "2026-09-27T06:25:34Z",
-    "stars": 185458,
+    "stars": 185461,
     "url": "https://github.com/firecrawl/firecrawl"
   },
   {
@@ -796,7 +796,7 @@
     "forks": 12465,
     "name": "github/spec-kit",
     "pushed_at": "2026-09-25T20:31:03Z",
-    "stars": 139102,
+    "stars": 139103,
     "url": "https://github.com/github/spec-kit"
   },
   {
@@ -835,7 +835,7 @@
     "description": "Write HTML. Render video. Built for agents.",
     "forks": 4887,
     "name": "heygen-com/hyperframes",
-    "pushed_at": "2026-09-27T18:34:02Z",
+    "pushed_at": "2026-09-27T18:36:19Z",
     "stars": 53591,
     "url": "https://github.com/heygen-com/hyperframes"
   },
@@ -1011,7 +1011,7 @@
     "description": "The open-source AI Management System",
     "forks": 3436,
     "name": "kortix-ai/suna",
-    "pushed_at": "2026-09-27T18:31:56Z",
+    "pushed_at": "2026-09-27T18:34:55Z",
     "stars": 20236,
     "url": "https://github.com/kortix-ai/suna"
   },
@@ -1019,7 +1019,7 @@
     "description": "Talk to one agent. Ship with a crew.",
     "forks": 2286,
     "name": "kunchenguid/firstmate",
-    "pushed_at": "2026-09-27T18:20:49Z",
+    "pushed_at": "2026-09-27T18:34:56Z",
     "stars": 7237,
     "url": "https://github.com/kunchenguid/firstmate"
   },
@@ -1148,7 +1148,7 @@
     "forks": 22788,
     "name": "mattpocock/skills",
     "pushed_at": "2026-09-24T14:07:55Z",
-    "stars": 270614,
+    "stars": 270615,
     "url": "https://github.com/mattpocock/skills"
   },
   {
@@ -1188,7 +1188,7 @@
     "forks": 13835,
     "name": "microsoft/markitdown",
     "pushed_at": "2026-09-21T21:03:34Z",
-    "stars": 187293,
+    "stars": 187294,
     "url": "https://github.com/microsoft/markitdown"
   },
   {
@@ -1409,9 +1409,9 @@
   },
   {
     "description": "The agent that grows with you",
-    "forks": 53025,
+    "forks": 53026,
     "name": "NousResearch/hermes-agent",
-    "pushed_at": "2026-09-27T18:33:51Z",
+    "pushed_at": "2026-09-27T18:36:17Z",
     "stars": 249438,
     "url": "https://github.com/NousResearch/hermes-agent"
   },
@@ -1425,10 +1425,10 @@
   },
   {
     "description": "Self-hosted deployment platform",
-    "forks": 1157,
+    "forks": 1158,
     "name": "oblien/openship",
     "pushed_at": "2026-09-27T15:37:06Z",
-    "stars": 12623,
+    "stars": 12627,
     "url": "https://github.com/oblien/openship"
   },
   {
@@ -1476,7 +1476,7 @@
     "forks": 2842,
     "name": "openai/symphony",
     "pushed_at": "2026-09-15T22:14:59Z",
-    "stars": 27435,
+    "stars": 27436,
     "url": "https://github.com/openai/symphony"
   },
   {
@@ -1499,7 +1499,7 @@
     "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
     "forks": 82160,
     "name": "openclaw/openclaw",
-    "pushed_at": "2026-09-27T18:33:54Z",
+    "pushed_at": "2026-09-27T18:35:15Z",
     "stars": 390651,
     "url": "https://github.com/openclaw/openclaw"
   },
@@ -1556,7 +1556,7 @@
     "forks": 7537,
     "name": "Panniantong/Agent-Reach",
     "pushed_at": "2026-09-15T16:16:24Z",
-    "stars": 85750,
+    "stars": 85751,
     "url": "https://github.com/Panniantong/Agent-Reach"
   },
   {
@@ -1564,7 +1564,7 @@
     "forks": 15608,
     "name": "paperclipai/paperclip",
     "pushed_at": "2026-09-27T12:25:56Z",
-    "stars": 89269,
+    "stars": 89274,
     "url": "https://github.com/paperclipai/paperclip"
   },
   {
@@ -1620,7 +1620,7 @@
     "forks": 10211,
     "name": "rohitg00/ai-engineering-from-scratch",
     "pushed_at": "2026-09-27T11:54:19Z",
-    "stars": 59051,
+    "stars": 59053,
     "url": "https://github.com/rohitg00/ai-engineering-from-scratch"
   },
   {
@@ -1715,8 +1715,8 @@
     "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
     "forks": 5198,
     "name": "stablyai/orca",
-    "pushed_at": "2026-09-27T18:33:36Z",
-    "stars": 79432,
+    "pushed_at": "2026-09-27T18:34:38Z",
+    "stars": 79433,
     "url": "https://github.com/stablyai/orca"
   },
   {
@@ -1748,7 +1748,7 @@
     "forks": 20883,
     "name": "TauricResearch/TradingAgents",
     "pushed_at": "2026-09-25T06:36:11Z",
-    "stars": 108886,
+    "stars": 108887,
     "url": "https://github.com/TauricResearch/TradingAgents"
   },
   {
@@ -1804,7 +1804,7 @@
     "forks": 4908,
     "name": "tt-a1i/archify",
     "pushed_at": "2026-09-27T16:14:12Z",
-    "stars": 72681,
+    "stars": 72683,
     "url": "https://github.com/tt-a1i/archify"
   },
   {
@@ -1825,7 +1825,7 @@
   },
   {
     "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-    "forks": 3160,
+    "forks": 3161,
     "name": "VectifyAI/PageIndex",
     "pushed_at": "2026-09-24T11:42:46Z",
     "stars": 35875,
